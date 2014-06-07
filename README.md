@@ -37,6 +37,8 @@ I also wanted to obeserve the tradition of the beer, so brewed with the triple d
 3. Come Again Double Cream Ale:
 -------------------------------
 
+I couldn't wait for the lager to finish, so this is my interim attempt.
+
 |Characteristic | Notes:        |
 | ------------- | ------------  |
 |Appearance     |tbd|
