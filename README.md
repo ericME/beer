@@ -3,8 +3,10 @@ BEER
 recipes:
 
 1. Dark Smoked Porter:
-    a. Appearance
-    b. Aroma
-    c. Taste
-    d. Mouthfeel
-    e. Overall
+|Characteristic | Notes:        |
+| ------------- | ------------  |
+|Appearance     |impenetrably dark, almost zero head retention|
+|Aroma          |pleasantly mild, slight hop scent|
+|Taste          |coffee and malty notes|
+|Mouthfeel      |creamy, sub-milk|
+|Overall        |tasty, got good reviews from those who tasted it|
