@@ -3,6 +3,7 @@ BEER
 recipes:
 
 1. Dark Smoked Porter:
+
 |Characteristic | Notes:        |
 | ------------- | ------------  |
 |Appearance     |impenetrably dark, almost zero head retention|
