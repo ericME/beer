@@ -26,6 +26,10 @@ I wanted to try a lager, so I rigged up an old freezer with a homemade temperatu
 
 I also wanted to obeserve the tradition of the beer, so brewed with the triple decoction mash schedule.
 
+Primary: 2 weeks @ 50-55F
+Diacetyl Rest: 3 days @ 65F
+Rack to keg, then secondary: 2 months @ 35F
+
 |Characteristic | Notes:        |
 | ------------- | ------------  |
 |Appearance     |tbd|
