@@ -42,6 +42,8 @@ Rack to keg, then secondary: 2 months @ 35F
 -------------------------------
 
 I couldn't wait for the lager to finish, so this is my interim attempt.
+Primary: 2 weeks @ 70-75F
+Rack to Keg, secondary 1 week at 40F.
 
 |Characteristic | Notes:        |
 | ------------- | ------------  |
@@ -50,3 +52,5 @@ I couldn't wait for the lager to finish, so this is my interim attempt.
 |Taste          |tbd|
 |Mouthfeel      |tbd|
 |Overall        |tbd|
+
+OG: 1.77//FG: 1.018//ABV: 7.77%
