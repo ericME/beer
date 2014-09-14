@@ -20,7 +20,8 @@ A really nice beer.
 
 
 2. Uncle Chunkle Chocolate Dunkel:
-----------------------------------
+---------------------------------
+-
 
 I wanted to try a lager, so I rigged up an old freezer with a homemade temperature controller.
 
