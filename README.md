@@ -33,11 +33,11 @@ Rack to keg, then secondary: 2 months @ 35F
 
 |Characteristic | Notes:        |
 | ------------- | ------------  |
-|Appearance     |tbd|
-|Aroma          |tbd|
-|Taste          |tbd|
-|Mouthfeel      |tbd|
-|Overall        |tbd|
+|Appearance     |very dark, reasonably frothy head, lots of lacing|
+|Aroma          |mild, some people detected very slight hops|
+|Taste          |slight chocolate note, smooth and delicious|
+|Mouthfeel      |smooth, light, fresh|
+|Overall        |a wonderful munich style dunkel; had visitors from germany who loved it|
 
 3. Come Again Double Cream Ale:
 -------------------------------
@@ -48,10 +48,10 @@ Rack to Keg, secondary 1 week at 40F.
 
 |Characteristic | Notes:        |
 | ------------- | ------------  |
-|Appearance     |tbd|
-|Aroma          |tbd|
-|Taste          |tbd|
-|Mouthfeel      |tbd|
-|Overall        |tbd|
+|Appearance     |golden and bright, very frothy head|
+|Aroma          |hints of the Willamette Hops|
+|Taste          |slight corn flavor|
+|Mouthfeel      |rich and creamy, very smooth|
+|Overall        |deliciously smooth; goes down great in hot weather|
 
 OG: 1.77//FG: 1.018//ABV: 7.77%
