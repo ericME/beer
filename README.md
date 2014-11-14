@@ -43,6 +43,7 @@ Rack to keg, then secondary: 2 months @ 35F
 -------------------------------
 
 I couldn't wait for the lager to finish, so this is my interim attempt.
+
 Primary: 2 weeks @ 70-75F
 Rack to Keg, secondary 1 week at 40F.
 
@@ -60,6 +61,7 @@ OG: 1.77//FG: 1.018//ABV: 7.77%
 -------------------------------
 
 I used the cream ale yeast cake to ferement some apple juice. I added 2lbs of brown sugar and it turned out way to dry. Back sweetened with 1lb of honey and 1lb of raspberries boiled into a mash.
+
 Primary: 2 weeks @ 70-90F
 Rack to Keg, add CO2.
 
@@ -75,6 +77,7 @@ Rack to Keg, add CO2.
 -------------------------------
 
 A gluten free IPA
+
 Primary: 3 weeks @ 70-75F
 Rack to Keg, secondary 1 week at 40F.
 
@@ -89,7 +92,8 @@ Rack to Keg, secondary 1 week at 40F.
 6. ALTeRED Reality:
 -------------------------------
 
-Sweet Red Altbier
+Sweet Red Altbier, a dusseldorf style alt. Made with a single decoction of about 1/2 gallon.
+
 Primary: 2 weeks @ 70-75F
 Secondary: 4 weeks @ 50-55F
 Rack to Keg.
@@ -108,6 +112,7 @@ ABV: 5.0%
 -------------------------------
 
 Double Oatmeal Stout
+
 Primary: 2 weeks @ 70-75F
 Rack to Keg, secondary 1 week at 40F.
 
@@ -125,6 +130,7 @@ OG: 1.081//FG: 1.##//ABV: ##%
 -------------------------------
 
 Short Desc
+
 Primary: 2 weeks @ 70-75F
 Rack to Keg, secondary 1 week at 40F.
 
