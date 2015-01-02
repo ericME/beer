@@ -124,7 +124,7 @@ Rack to Keg, secondary 1 week at 40F.
 |Mouthfeel      ||
 |Overall        ||
 
-OG: 1.081//FG: 1.##//ABV: ##%
+OG: 1.081//FG: 1.12//ABV: 9%
 
 #. Name:
 -------------------------------
